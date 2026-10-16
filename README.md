@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** `Jason Xec`
-- **CCID:** `jxexc`
+- **CCID:** `jxec`
 
 ## References and Resources
 List any resources used here, or simply put `N/A` if not applicable.
